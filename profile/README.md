@@ -1,4 +1,6 @@
-# Cloud Army
+# Cloud Army Chile
+
+![Cloud Army logo](https://avatars.githubusercontent.com/u/130597589?s=200&v=4)
 
 Somos una comunidad dedicada a generar soluciones enfocadas a la Seguridad Cloud y la cultura Devops.
 
